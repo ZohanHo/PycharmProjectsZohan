@@ -4,14 +4,10 @@
 
 
 n = int(input("введите факториал какого числа необходимо вычислить: "))
-
 spi = [i for i in range(1, n + 1 )]
-print(spi))
+print(spi)
 
-#sp = [1, 2, 3, 4, 5, 6]
 
-#for j in (sp):
-    #print(sp)
 
 
 
