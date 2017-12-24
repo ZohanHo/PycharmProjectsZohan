@@ -2,10 +2,18 @@
 По данному натуральному n вычислите значение n!.
 Пользоваться математической библиотекой math в этой задаче запрещено."""
 
+#def Kolos(n):
+    #s = '*'.join(str(i) for i in range(1, n + 1 ))
+    #return eval(s)
+#print(Kolos(int(input("ведите число: "))))
 
 n = int(input("введите факториал какого числа необходимо вычислить: "))
-spi = [i for i in range(1, n + 1 )]
-print(spi)
+
+s = 1
+for i in range (1, n +1):
+    s = s * i
+    if (i) == n:
+        print(s)
 
 
 
@@ -17,8 +25,6 @@ print(spi)
 
 
 
-
-#
 
 
 
