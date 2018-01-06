@@ -10,7 +10,7 @@ for i in range(1, n + 1 ):
     if (i) == n:
         print(s)
 
-#test git note go go go
+#test git note go go
 
-#new
+#new gg
 
