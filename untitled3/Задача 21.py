@@ -16,6 +16,8 @@ for i in list(range(b, a)):
         a -= 1
         print(a)
 
+        доделать
+
 
 
 

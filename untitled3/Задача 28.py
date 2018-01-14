@@ -12,7 +12,7 @@ for i in range(1, n + 1 ):
     if (i) == n:
         print(d)
 
-#test git note go go
 
-#new gg  last
+
+
 
