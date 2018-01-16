@@ -1,8 +1,10 @@
-s = [1, 2, 3]
+s = [1, 2, 3, 3]
+print(s.count(3))
 
-print(s)
 
-
-print(list.count(s))
+if not 6 % 3:
+    print("gg")
+else:
+    print("bb")
 
 
