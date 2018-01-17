@@ -6,4 +6,13 @@
 n = int(input("введите число n: "))
 
 for i in range(n):
-    k = int(input("введите число n: "))
+    k = int(input("введите число k: "))
+
+i = 0
+while i <= (n):
+    i += 1
+    print(k)
+    if i == 0:
+        print(i)
+
+Завтра доделать
