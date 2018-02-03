@@ -5,7 +5,7 @@
 
 x = int(input("Введите год: "))
 
-if  not (x%100):
+if  not (x % 100):
     print("Не высокосный")
 elif x % 4 == 0:
     if x % 400 == 0:
